@@ -1,5 +1,5 @@
 
-**Visualizing Philadelphia Crime Data in Python using Folium **
+Visualizing Philadelphia Crime Data in Python using Folium 
 ================================================
 **Xi Wei ([xi.wei@temple.edu](mailto:tud52132@temple.edu))**
 
